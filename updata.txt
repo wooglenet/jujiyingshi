@@ -1,9 +1,4 @@
 <ServiceData>
-["Update"]=--更新数据
 
-  {
 
-    ["Version"]="1.0",--最新版本号(必须)
-
-    ["ChangeLog"]=[[您将从 [VersionName] 更新至最新版本
     </ServiceData>
